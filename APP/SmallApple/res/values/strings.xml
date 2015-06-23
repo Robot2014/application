@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SmallApple</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">X4</string>
+    <string name="button_forward_text">^</string>
+    <string name="button_backward_text">v</string>
+    <string name="button_left_text">~</string>
+    <string name="button_right_text">></string>
+    <string name="button_connect_text">connect</string>
+	
+	<string name="bluethooth_open">请打开蓝牙设备</string>  
+    <string name="ico_dec">just_button_ico</string>  
+</resources>
